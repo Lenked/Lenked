@@ -1,4 +1,4 @@
-<img src="./Lenked profil.png" />
+<img src="Lenked profil.png" alt="..." width="70%" height="30%" />
 <h1 align="center">Hi 👋, I'm Evrard Ntanguen(Lenked)</h1>
 
 
