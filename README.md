@@ -1,4 +1,4 @@
-<img src="Lenked profil.png" alt="..." width="70%" height="30%" align="center"  />
+<img src="Lenked profil.png" alt="..." width="80%" height="30%" align="center"  />
 <h1 align="center">Hi 👋, I'm Evrard Ntanguen(Lenked)</h1>
 
 
@@ -7,14 +7,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on to the web, mobile and artificial intelligence
+- 🌱 I’m currently learning python, kotlin and Node .js
+- 👯 I’m looking to collaborate on on informative projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: lenked43@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on to the web, mobile and artificial intelligence
+🌱 I’m currently learning python, kotlin and Node .js
+👯 I’m looking to collaborate on on informative projects
+📫 How to reach me: lenked43@gmail.com
+
 <h3 align="center">A passionate fullstack junior Web & MOBILE developer</h3>
 
