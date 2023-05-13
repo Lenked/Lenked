@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on to the web, mobile and artificial intelligence
-🌱 I’m currently learning python, kotlin and Node .js
-👯 I’m looking to collaborate on on informative projects
-📫 How to reach me: lenked43@gmail.com
+- 🔭 I’m currently working on to the web, mobile and artificial intelligence
+- 🌱 I’m currently learning python, kotlin and Node .js
+- 👯 I’m looking to collaborate on on informative projects
+- 📫 How to reach me: lenked43@gmail.com
 
 <h3 align="center">A passionate fullstack junior Web & MOBILE developer</h3>
 
