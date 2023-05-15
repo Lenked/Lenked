@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on on informative projects
 - 📫 How to reach me: lenked43@gmail.com
 
-<h3 align="center">A passionate fullstack junior Web & MOBILE developer</h3>
+<h3 align="center">A passionate junior Web & MOBILE developer</h3>
 
