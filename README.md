@@ -25,15 +25,24 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate fullstack junior Web & MOBILE developer</h3>
 -->
 
+<!-- Header -->
+<p align="center">
+  <img src="lien_vers_image_developpeur.jpg" alt="Développeur" />
+</p>
+
 # Lenked - Développeur d'Applications
 
 ## À propos de moi
-Je suis Lenked, un passionné de développement d'applications web et mobiles. Mon objectif est de créer des solutions innovantes et de contribuer à des projets inspirants. 
+Je suis Lenked, un passionné de développement d'applications web et mobiles. Mon objectif est de créer des solutions innovantes et de contribuer à des projets inspirants.
 
-![Développeur](Lenked profil.png)
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-Intermediate-orange" alt="C#" />
+</p>
 
 ## Compétences
-- **Langages de programmation:** Python, JavaScript, C#
 - **Langages web:** HTML, CSS, JavaScript
 - **Langages mobiles:** Kotlin, Java, React Native, Flutter, Xamarin
 - **Frameworks et bibliothèques:** React, Vite
@@ -43,7 +52,12 @@ Je suis Lenked, un passionné de développement d'applications web et mobiles. M
 - **Outils de développement:** PyCharm, Android Studio, Visual Studio Code
 
 ## Portfolio en ligne
-Découvrez mes projets sur [GitHub](https://github.com/lenked43).
+Découvrez mes projets sur [GitHub](https://github.com/Lenked).
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lenked43&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
 ## Contact
 - 📧 Email: ntanguenevrard05@gmail.com
