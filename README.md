@@ -43,13 +43,45 @@ Je suis Lenked, un passionné de développement d'applications web et mobiles. M
 </p>
 
 ## Compétences
-- **Langages web:** HTML, CSS, JavaScript
-- **Langages mobiles:** Kotlin, Java, React Native, Flutter, Xamarin
-- **Frameworks et bibliothèques:** React, Vite
-- **Base de données:** MySQL, Oracle, SQLite, MongoDB
-- **Gestion de versions:** Git, GitHub
-- **Déploiement et hébergement:** AWS, Heroku, Firebase
-- **Outils de développement:** PyCharm, Android Studio, Visual Studio Code
+
+<p align="center">
+  <!-- Langages web -->
+  <img src="https://img.shields.io/badge/HTML-Expert-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-Expert-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
+
+  <!-- Langages mobiles -->
+  <img src="https://img.shields.io/badge/Kotlin-Intermediate-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-Intermediate-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React_Native-Intermediate-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-Intermediate-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Xamarin-Intermediate-3498DB?style=flat&logo=xamarin&logoColor=white" alt="Xamarin" />
+
+  <!-- Frameworks et bibliothèques -->
+  <img src="https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-Intermediate-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+
+  <!-- Base de données -->
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-Intermediate-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQLite-Intermediate-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  <!-- Gestion de versions -->
+  <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-Expert-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+
+  <!-- Déploiement et hébergement -->
+  <img src="https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Heroku-Intermediate-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+
+  <!-- Outils de développement -->
+  <img src="https://img.shields.io/badge/PyCharm-Expert-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Android_Studio-Expert-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-Expert-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+</p>
+
 
 ### Portfolio Personnel
 - Découvrez mes projets sur [GitHub](https://github.com/Lenked).
