@@ -56,7 +56,7 @@ Découvrez mes projets sur [GitHub](https://github.com/Lenked).
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenked43&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lenked&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ## Contact
