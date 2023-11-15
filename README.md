@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- Header -->
 <p align="center">
-  <img src="lien_vers_image_developpeur.jpg" alt="Développeur" />
+  <img src="Lenked profil.png" alt="Développeur" />
 </p>
 
 # Lenked - Développeur d'Applications
