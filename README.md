@@ -25,11 +25,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate fullstack junior Web & MOBILE developer</h3>
 -->
 
-<!-- Header -->
-<p align="center">
-  <img src="Lenked profil.png" alt="Développeur" />
-</p>
-
 # Lenked - Développeur d'Applications
 
 ## À propos de moi
