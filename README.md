@@ -83,9 +83,7 @@ I'm Lenked, a passionate web and mobile app developer. My goal is to create inno
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lenked&show
-
-_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lenked&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <!-- Most Used Languages -->
