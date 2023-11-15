@@ -51,18 +51,43 @@ Je suis Lenked, un passionné de développement d'applications web et mobiles. M
 - **Déploiement et hébergement:** AWS, Heroku, Firebase
 - **Outils de développement:** PyCharm, Android Studio, Visual Studio Code
 
-## Portfolio en ligne
-Découvrez mes projets sur [GitHub](https://github.com/Lenked).
+### Portfolio Personnel
+- Découvrez mes projets sur [GitHub](https://github.com/Lenked).
 
-<!-- GitHub Stats -->
+## Statistiques GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lenked&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
+<!-- Langages les plus utilisés -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenked&layout=compact" alt="Langages les plus utilisés" />
+</p>
+
+
+## Contributions
+### Mes contributeurs préférés
+- [@DevLabX-CM](https://github.com/DevLabX-CM)
+- [@dev-scott](https://github.com/dev-scott)
+
 ## Contact
-- 📧 Email: ntanguenevrard05@gmail.com
-- 🌐 LinkedIn: [lenked43](https://www.linkedin.com/in/lenked43/)
-- 🐦 Twitter: [@lenked43](https://twitter.com/lenked43)
+
+<!-- Badges Réseaux Sociaux -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/lenked43/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/lenked43">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=flat&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="mailto:ntanguenevrard05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-D14836?style=flat&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://discord.gg/DM9X35Qw">
+    <img src="https://img.shields.io/discord/799682158134847232?label=Discord&logo=discord&logoColor=white&style=flat" alt="Discord" />
+  </a>
+</p>
+
 
 ## Centres d'intérêt
 - ⚽ Football & 🏀 Basket
