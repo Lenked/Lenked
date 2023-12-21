@@ -118,4 +118,4 @@ I'm Lenked, a passionate web and mobile app developer. My goal is to create inno
 
 ### Visitor count
 
-<img src="https://profile-counter.glitch.me/Lenked/count.svg" />
+<img src="https://profile-counter.glitch.me/Lenked/count.svg" align="center" />
