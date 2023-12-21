@@ -116,6 +116,6 @@ I'm Lenked, a passionate web and mobile app developer. My goal is to create inno
 </p>
 
 
-## Interests
-- ⚽ Football & 🏀 Basketball
-- 📚 Reading
+### Visitor count
+
+<img src="https://profile-counter.glitch.me/Lenked/count.svg" />
