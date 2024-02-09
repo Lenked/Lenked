@@ -91,12 +91,6 @@ I'm Lenked, a passionate web and mobile app developer. My goal is to create inno
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenked&layout=compact" alt="Most Used Languages" />
 </p>
 
-
-## Contributions
-### My Favorite Contributors
-- [@DevLabX-CM](https://github.com/DevLabX-CM)
-- [@dev-scott](https://github.com/dev-scott)
-
 ## Contact
 
 <!-- Social Media Badges -->
