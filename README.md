@@ -76,7 +76,6 @@ Currently exploring and building solutions around **healthcare information syste
 
 I'm always interested in discussing software engineering, technology, innovative ideas, and collaborative projects.
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/lenked43/)
 - 📧 Email: [ntanguenevrard05@gmail.com](mailto:ntanguenevrard05@gmail.com)
 - 🐙 GitHub: [@Lenked](https://github.com/Lenked)
 
