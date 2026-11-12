@@ -59,11 +59,11 @@ Currently exploring and building solutions around **healthcare information syste
 ![Bahmni](https://img.shields.io/badge/Bahmni-267A8B?style=for-the-badge)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lenked&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenked&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Lenked&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lenked&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 <p align="center">
